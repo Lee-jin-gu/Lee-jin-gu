@@ -2,7 +2,7 @@
 
 ### <p align="center">😄 MY SNS 😄</p>
 <p align="center">
-<a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
 
 <!--
