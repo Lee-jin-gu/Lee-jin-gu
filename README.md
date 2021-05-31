@@ -2,8 +2,9 @@
 
 
 
+
+### Me
 <div style ="text-aligin = center">
-  <b>Me</b>
 <a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-20c997?style?style=flat-square&logo=Git&logoColor=white"/></a>
 </div>
 
