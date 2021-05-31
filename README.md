@@ -2,7 +2,6 @@
 
 ### <p align="center">💻 Tech Stack 💻</p>
 <p align="center">
-<a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://namu.wiki/w/Java" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://namu.wiki/w/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="https://namu.wiki/w/CSS"><img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=CSS3&logoColor=white"/></a>
