@@ -3,6 +3,7 @@
 ### <p align="center">😄 MY SNS 😄</p>
 <p align="center">
 <a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100038733101378&viewas=&show_switched_toast=false" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <!--
