@@ -1,4 +1,4 @@
-### <p align="center">👋This is Leejingu's introduce👋</p>
+### <p align="center">👋This Is Leejingu's Introduce👋</p>
 
 ### <p align="center">😄 MY SNS 😄</p>
 <p align="center">
