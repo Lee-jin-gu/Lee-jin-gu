@@ -1,7 +1,7 @@
 ### <p align="center">👋This Is Leejingu's Introduce👋</p>
 
 
-<br><br>
+<br>
 ### <p align="center">💻 Tech Stack 💻</p>
 <p align="center">
 <a href="https://namu.wiki/w/Java" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 
 
 
-<br><br>
+<br>
 
 
 
