@@ -1,9 +1,6 @@
 ### 👋 Hi there 👋
 
-
-
-
-### <p aligin = "center"> Me </p>
+### <p align="center">ME</p>
 <div style ="text-aligin = center">
 <a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-20c997?style?style=flat-square&logo=Git&logoColor=white"/></a>
 </div>
