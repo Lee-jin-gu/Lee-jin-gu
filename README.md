@@ -5,6 +5,8 @@
 <a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100038733101378&viewas=&show_switched_toast=false" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/jin904_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://open.kakao.com/o/sWan0Tdd" target="_blank"><img src="https://img.shields.io/badge/KAKAO_PROFILE-FFCD00?style?style=flat-square&logo=KaKaotalk&logoColor=white"/></a>
+  
 </p>
 
 <!--
