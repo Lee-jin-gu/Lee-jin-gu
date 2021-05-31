@@ -2,6 +2,10 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+
+### Me
+<a href="https://github.com/Lee-jin-gu" target="_blank"><img src="https://img.shields.io/badge/Github-20c997?style?style=flat-square&logo=Git&logoColor=white"/></a>
+
 <!--
 **Lee-jin-gu/Lee-jin-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
